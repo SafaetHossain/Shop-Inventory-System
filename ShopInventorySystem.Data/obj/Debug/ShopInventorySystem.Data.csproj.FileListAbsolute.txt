@@ -1,0 +1,10 @@
+D:\Programming\C#\ShopInventorySystem\ShopInventorySystem.Data\bin\Debug\ShopInventorySystem.Data.dll.config
+D:\Programming\C#\ShopInventorySystem\ShopInventorySystem.Data\bin\Debug\ShopInventorySystem.Data.dll
+D:\Programming\C#\ShopInventorySystem\ShopInventorySystem.Data\bin\Debug\ShopInventorySystem.Data.pdb
+D:\Programming\C#\ShopInventorySystem\ShopInventorySystem.Data\bin\Debug\ShopInventorySystem.Entity.dll
+D:\Programming\C#\ShopInventorySystem\ShopInventorySystem.Data\bin\Debug\ShopInventorySystem.Entity.pdb
+D:\Programming\C#\ShopInventorySystem\ShopInventorySystem.Data\bin\Debug\ShopInventorySystem.Entity.dll.config
+D:\Programming\C#\ShopInventorySystem\ShopInventorySystem.Data\obj\Debug\ShopInventorySystem.Data.csprojResolveAssemblyReference.cache
+D:\Programming\C#\ShopInventorySystem\ShopInventorySystem.Data\obj\Debug\ShopInventorySystem.Data.csproj.CoreCompileInputs.cache
+D:\Programming\C#\ShopInventorySystem\ShopInventorySystem.Data\obj\Debug\ShopInventorySystem.Data.dll
+D:\Programming\C#\ShopInventorySystem\ShopInventorySystem.Data\obj\Debug\ShopInventorySystem.Data.pdb
